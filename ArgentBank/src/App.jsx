@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Header from "./header/Head.jsx"
+import Header from "./components/header/Head.jsx"
 import Home from "./pages/Home.jsx"
 
 const App = () => {

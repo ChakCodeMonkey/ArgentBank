@@ -1,5 +1,5 @@
 import './header.css'
-import logo from '../../../Frontend/img/argentBankLogo.png'
+import logo from '../../assets/img/argentBankLogo.png'
 
 export default function Header() {
     return (

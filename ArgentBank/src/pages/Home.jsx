@@ -1,7 +1,8 @@
 import './home.css'
+import Banner from '../components/Banner/Banner.jsx'
 
 export default function Home () {
     return (
-        <h1>coucou</h1>
+        <Banner />
     )
 }
